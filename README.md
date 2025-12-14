@@ -111,17 +111,6 @@ NLP_FINAL_PROJECT/
 └── screenshots/
 
 ---
-Statistical-Analysis-of-Startup-Success-Factors/
-│
-├── data/                    # Dataset (download from Kaggle)
-├── scripts/                 # R analysis scripts
-├── report/                  # Full project report (PDF)
-├── analysis.R              # Main analysis script
-└── README.md
-
-
-
-
 
 🌐 EUROVOC Integration
 
