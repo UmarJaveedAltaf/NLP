@@ -54,9 +54,6 @@ Each petition can belong to **multiple EUROVOC categories**, making this a chall
 ---
 
 ## 📸 Application Preview
-
-Place the screenshots in a folder named `screenshots/`:
-
 ---
 ![BERT + GRU Prediction](screenshots/bert_gru.png)
 ![BERT + BiLSTM Prediction](screenshots/bert_bilstm.png)
